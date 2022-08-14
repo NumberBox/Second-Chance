@@ -5,5 +5,4 @@
 - пошаговая визуализация замены страничных блоков,
 - расчет общего количества прерываний.
 
-![screen](https://user-images.githubusercontent.com/110388383/184544546-f7ad3a5e-fb83-4af8-9d4c-fe51f8020fba.gif)
-
+![Запись-экрана-3-от-14-августа](https://user-images.githubusercontent.com/110388383/184544196-6dc5aca3-24a2-4678-9806-5185afb25cf2.gif)
